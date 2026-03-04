@@ -170,7 +170,7 @@ const projectData = {
       },
       {
         title: "Author Screen",
-        path: "images/projects/audiobook/audio.jpeg",
+        path: "images/projects/audiobook/author.jpeg",
         description: "",
       },
       {
